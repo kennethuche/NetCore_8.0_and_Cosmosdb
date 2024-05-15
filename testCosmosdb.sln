@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testCosmosdb", "testCosmosdb\testCosmosdb.csproj", "{8D1073BB-0924-4462-9537-29B46F2EAC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testCosmosdb.Data", "testCosmosdb.Data\testCosmosdb.Data.csproj", "{59265532-7D4B-4019-B7CD-206CB5C21A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1073BB-0924-4462-9537-29B46F2EAC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1073BB-0924-4462-9537-29B46F2EAC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1073BB-0924-4462-9537-29B46F2EAC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1073BB-0924-4462-9537-29B46F2EAC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59265532-7D4B-4019-B7CD-206CB5C21A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59265532-7D4B-4019-B7CD-206CB5C21A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59265532-7D4B-4019-B7CD-206CB5C21A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59265532-7D4B-4019-B7CD-206CB5C21A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69872D68-C728-4D15-95BE-CBB01B8FC873}
+	EndGlobalSection
+EndGlobal
